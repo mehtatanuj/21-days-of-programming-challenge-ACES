@@ -52,3 +52,4 @@ int main()
 	}
 	return 0;
 }
+// https://medium.com/algorithm-and-datastructure/0-1-knapsack-in-the-bottom-up-approach-cd95adc6791e
