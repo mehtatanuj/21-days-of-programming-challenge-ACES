@@ -2,7 +2,7 @@
 using namespace std;
 int check(string s,string y,int n)
 {
-	int A[n][n];
+	int A[n+1][n+1];
 	for(int i=0;i<=n;i++)
 	{
 		A[0][i]=0;
